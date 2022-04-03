@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "252333100986",
+    "project_id": "fit-5668c",
+    "storage_bucket": "fit-5668c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252333100986:android:9cf36fcc5bbbbae24fd783",
+        "android_client_info": {
+          "package_name": "com.medensy.health"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "252333100986-smc5ii40jhi3dri9t3f95q3o6are7f1j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcv63sP0ZL58Jd8uss_1HDJ5rEn24i0RU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "252333100986-smc5ii40jhi3dri9t3f95q3o6are7f1j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
